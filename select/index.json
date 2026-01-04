@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "さくらんぼ",
+  "base_artist": "大塚 愛",
+  "createdAt": "2026-01-04T07:18:52.095670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さくらんぼ - LOVE IS BORN 〜15th Anniversary 2018〜",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/01_さくらんぼ_-_LOVE_IS_BORN_〜15th_Anniversary_2018〜_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さくらんぼ(LOVE IS BORN 〜15th Anniversary 2018〜)",
+      "artist": "大塚 愛",
+      "has_synced": true,
+      "path": "select/02_さくらんぼ(LOVE_IS_BORN_〜15th_Anniversary_2018〜)_大塚_愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/03_さくらんぼ_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/04_さくらんぼ_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大塚 愛 / さくらんぼ",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/05_大塚_愛___さくらんぼ_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さくらんぼ（Original） - Sakuranbo（Original）",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/06_さくらんぼ(Original)_-_Sakuranbo(Original)_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/07_さくらんぼ_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/08_さくらんぼ_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "さくらんぼ スタジオライブ ver.",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/09_さくらんぼ_スタジオライブ_ver._大塚愛.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "さくらんぼ／Original",
+      "artist": "大塚　愛",
+      "has_synced": true,
+      "path": "select/10_さくらんぼ_Original_大塚_愛.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/11_さくらんぼ_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/12_さくらんぼ_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "大塚爱",
+      "has_synced": true,
+      "path": "select/13_さくらんぼ_大塚爱.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "さくらんぼ",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/14_さくらんぼ_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "さくらんぼ(사쿠란보)",
+      "artist": "Otsuka Ai",
+      "has_synced": true,
+      "path": "select/15_さくらんぼ(사쿠란보)_Otsuka_Ai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さくらんぼ",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_01_さくらんぼ_大塚_愛.txt"
+    }
+  ]
+}
